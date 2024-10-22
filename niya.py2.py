@@ -1,3 +1,9 @@
+'''
+Author : Niya Pius
+Date : 15-10-2024
+Python program to convert temparature from celsius to fahrenheit and vice versa.
+Version 1.0
+'''
 temp=int(input("Enter the temparature"))
 type=(input("IS THIS IN CELSIUS OR FAHRENHEIT?"))
 final_temp=0
