@@ -1,3 +1,9 @@
+'''
+Author : Niya Pius
+Date : 19-11-2024
+Python program to calculate stock value
+Version 1.0
+'''
 inventory=[
     ("laptop",10,44500.0),
     ("smart phone",10,40000.0),
