@@ -1,3 +1,9 @@
+'''
+Author: Niya Pius
+Date:19-11-2024
+Python program to merge two lists and sort the elements 
+Version:1.0
+'''
 print("Enter a list")
 list1=[]
 list1_size=int(input("Enter the size of list1:"))
